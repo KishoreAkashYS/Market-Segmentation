@@ -15,4 +15,5 @@ Benefits of Market segmentation:
 *	Build deeper customer affinity.
 *	Identify niche market opportunities.
 *	Stay focused.<br/>
+
 As this project mainly focuses on taxes let's first get a clear understanding of tax and services.
